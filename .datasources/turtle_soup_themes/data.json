@@ -1,0 +1,74 @@
+
+[
+  {
+    "_id": "1",
+    "title": "智能快递柜",
+    "description": "小明每天都会收到一个空快递柜的取件码，但他从未在网上买过东西，这是怎么回事？",
+    "answer": "小明是快递员，每天需要清空快递柜来投放新的包裹，取件码是系统发给他的工作提醒",
+    "difficulty": "中等",
+    "hints": ["考虑职业身份", "系统通知", "日常工作"],
+    "category": "现代生活",
+    "createdAt": 1736352000000,
+    "updatedAt": 1736352000000,
+    "owner": "system",
+    "createBy": "system",
+    "updateBy": "system"
+  },
+  {
+    "_id": "2",
+    "title": "阳光早餐",
+    "description": "小红每天早上都会在阳台上吃早餐，但有一天她突然不吃了，为什么？",
+    "answer": "那天是阴天，没有阳光，小红只在有阳光的时候才会在阳台吃早餐",
+    "difficulty": "简单",
+    "hints": ["天气因素", "生活习惯", "阳光依赖"],
+    "category": "日常生活",
+    "createdAt": 1736352010000,
+    "updatedAt": 1736352010000,
+    "owner": "system",
+    "createBy": "system",
+    "updateBy": "system"
+  },
+  {
+    "_id": "3",
+    "title": "共享单车的秘密",
+    "description": "小李每天骑共享单车上班，但有一天他发现自己的骑行记录里多了一次深夜骑行，他确定自己没有骑过，这是为什么？",
+    "answer": "小李的室友借用了他的手机扫码骑车，因为室友的手机没电了",
+    "difficulty": "中等",
+    "hints": ["手机借用", "室友关系", "扫码记录"],
+    "category": "现代生活",
+    "createdAt": 1736352020000,
+    "updatedAt": 1736352020000,
+    "owner": "system",
+    "createBy": "system",
+    "updateBy": "system"
+  },
+  {
+    "_id": "4",
+    "title": "阳光充电",
+    "description": "小王的手机每天下午3点都会自动充满电，但他没有使用充电器，这是怎么回事？",
+    "answer": "小王在办公室靠窗的位置，每天下午3点阳光正好照在他的太阳能充电宝上",
+    "difficulty": "简单",
+    "hints": ["太阳能", "办公室位置", "时间规律"],
+    "category": "科技生活",
+    "createdAt": 1736352030000,
+    "updatedAt": 1736352030000,
+    "owner": "system",
+    "createBy": "system",
+    "updateBy": "system"
+  },
+  {
+    "_id": "5",
+    "title": "健身房的镜子",
+    "description": "小张在健身房照镜子时发现自己变瘦了，但称重时体重没有变化，为什么？",
+    "answer": "健身房的镜子是瘦身镜，会让人看起来更瘦，这是商家的营销策略",
+    "difficulty": "困难",
+    "hints": ["镜子原理", "商业策略", "视觉效果"],
+    "category": "现代生活",
+    "createdAt": 1736352040000,
+    "updatedAt": 1736352040000,
+    "owner": "system",
+    "createBy": "system",
+    "updateBy": "system"
+  }
+]
+  

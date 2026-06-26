@@ -1,0 +1,41 @@
+
+{
+  "name": "turtle_soup_themes",
+  "title": "海龟汤主题",
+  "schemas": [
+    {
+      "name": "title",
+      "title": "主题标题",
+      "type": "String"
+    },
+    {
+      "name": "description",
+      "title": "主题描述",
+      "type": "MultiLineString"
+    },
+    {
+      "name": "answer",
+      "title": "正确答案",
+      "type": "String"
+    },
+    {
+      "name": "difficulty",
+      "title": "难度等级",
+      "type": "String"
+    },
+    {
+      "name": "hints",
+      "title": "提示列表",
+      "type": "Array",
+      "items": {
+        "type": "String"
+      }
+    },
+    {
+      "name": "category",
+      "title": "分类",
+      "type": "String"
+    }
+  ]
+}
+  

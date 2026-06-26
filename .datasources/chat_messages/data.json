@@ -1,0 +1,82 @@
+
+[
+  {
+    "_id": "1",
+    "userId": "user_001",
+    "content": "你好，请问你能帮我做什么？",
+    "role": "user",
+    "timestamp": 1736352000000,
+    "modelName": "hunyuan-lite",
+    "createdAt": 1736352000000,
+    "updatedAt": 1736352000000,
+    "owner": "user_001",
+    "createBy": "user_001",
+    "updateBy": "user_001"
+  },
+  {
+    "_id": "2",
+    "userId": "user_001",
+    "content": "你好！我是一个AI助手，可以帮助你回答各种问题、提供信息、协助完成任务等。有什么我可以帮助你的吗？",
+    "role": "assistant",
+    "timestamp": 1736352010000,
+    "modelName": "hunyuan-lite",
+    "createdAt": 1736352010000,
+    "updatedAt": 1736352010000,
+    "owner": "user_001",
+    "createBy": "system",
+    "updateBy": "system"
+  },
+  {
+    "_id": "3",
+    "userId": "user_001",
+    "content": "我想了解一下天气情况",
+    "role": "user",
+    "timestamp": 1736352020000,
+    "modelName": "hunyuan-lite",
+    "createdAt": 1736352020000,
+    "updatedAt": 1736352020000,
+    "owner": "user_001",
+    "createBy": "user_001",
+    "updateBy": "user_001"
+  },
+  {
+    "_id": "4",
+    "userId": "user_001",
+    "content": "很抱歉，我目前无法提供实时的天气信息。建议您查看天气预报应用或网站获取最新的天气情况。",
+    "role": "assistant",
+    "timestamp": 1736352030000,
+    "modelName": "hunyuan-lite",
+    "createdAt": 1736352030000,
+    "updatedAt": 1736352030000,
+    "owner": "user_001",
+    "createBy": "system",
+    "updateBy": "system"
+  },
+  {
+    "_id": "5",
+    "userId": "user_002",
+    "content": "你好，我想学习编程",
+    "role": "user",
+    "timestamp": 1736352040000,
+    "modelName": "deepseek-v3-0324",
+    "createdAt": 1736352040000,
+    "updatedAt": 1736352040000,
+    "owner": "user_002",
+    "createBy": "user_002",
+    "updateBy": "user_002"
+  },
+  {
+    "_id": "6",
+    "userId": "user_002",
+    "content": "太好了！学习编程是一个很有价值的技能。我可以为你推荐一些学习资源，比如Python、JavaScript等语言的入门教程，或者解答你在学习过程中遇到的问题。你想从哪种语言开始学习呢？",
+    "role": "assistant",
+    "timestamp": 1736352050000,
+    "modelName": "deepseek-v3-0324",
+    "createdAt": 1736352050000,
+    "updatedAt": 1736352050000,
+    "owner": "user_002",
+    "createBy": "system",
+    "updateBy": "system"
+  }
+]
+  

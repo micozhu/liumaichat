@@ -1,0 +1,34 @@
+
+{
+  "name": "chat_messages",
+  "title": "聊天记录",
+  "schemas": [
+    {
+      "name": "userId",
+      "title": "用户ID",
+      "type": "String"
+    },
+    {
+      "name": "content",
+      "title": "消息内容",
+      "type": "MultiLineString"
+    },
+    {
+      "name": "role",
+      "title": "角色",
+      "type": "String"
+    },
+    {
+      "name": "timestamp",
+      "title": "时间戳",
+      "type": "DateTime",
+      "format": "timestamp-ms"
+    },
+    {
+      "name": "modelName",
+      "title": "模型名称",
+      "type": "String"
+    }
+  ]
+}
+  
